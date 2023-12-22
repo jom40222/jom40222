@@ -13,10 +13,16 @@ Hi, I'm Joma
 
 ````
 -------------------------
- I Like Anime
- I love video games
- I work to give myself my tastes
- I like many types of music
+⭐ I Like Anime
+🎮 I love video games
+💰 I work to give myself my tastes
+🎼 I like many types of music
+💕 But may fav song: "When you know, you know
+When you know, you know
+It kinda makes me laugh, runnin' down that path
+When you're good, it's gold
+'Cause when you know, you know"
 Credits: [I-am-vishalmaurya](https://github.com/I-am-vishalmaurya)
 Last Edited On: 18/04/2022
+-------------------------
 
