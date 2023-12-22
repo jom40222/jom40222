@@ -5,7 +5,7 @@ Hi, I'm Joma
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=;Graphic+Designer+Accountant;Technology+enthusiast;%20altough%20not%20much&center=true&width=380&height=50"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A025B8&random=false&width=435&lines=Graphic+Designer+Accountant;Technology+enthusiast;%20altough%20not%20much&center=true&width=380&height=50"></a>
 </p>
 
 <img align="left" src="https://i.pinimg.com/originals/dd/6d/b7/dd6db721c45d7f4a1a09d05dce159e62.gif" width="320" />
@@ -13,15 +13,10 @@ Hi, I'm Joma
 
 ````
 -------------------------
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University of Mumbai at India
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-💖 In a complicated relationship with Neural Networks
-🎵 Love metal, lofi, jazz and soft music
+ I Like Anime
+ I love video games
+ I work to give myself my tastes
+ I like many types of music
 Credits: [I-am-vishalmaurya](https://github.com/I-am-vishalmaurya)
 Last Edited On: 18/04/2022
 
