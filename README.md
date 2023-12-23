@@ -26,15 +26,5 @@ Credits: [I-am-vishalmaurya](https://github.com/I-am-vishalmaurya)
 Last Edited On: 18/04/2022
 ````
 <hr>
-
 <img align="right" src="https://media3.giphy.com/media/326iNaYpmeKzBhTmin/giphy.gif?cid=ecf05e47vqpxq2vb5znvwcwoff8u7frgq3lp6aw7w88tiqng&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 <img align="left" src="https://media.giphy.com/media/pci01PuIx6lIdmYYtJ/giphy.gif" />
-
-
-<h2> 👾</h2>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=jom40222&show_icons=true&theme=omni" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jom40222&hide_progress=true&theme=omni"/>
-<img align="below" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jom40222&hide_progress=true&theme=omni"/>
-<img align="up" src="https://media.giphy.com/media/Zet93rfHAfbIwxO3Bn/giphy.gif" width="150" />
-
